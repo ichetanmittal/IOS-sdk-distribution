@@ -17,7 +17,7 @@ Add the following dependency to your Package.swift file:
 
 ```swift
 dependencies: [
-    .package(url: "path/to/your/repo/IOSDeepLinkSDK.git", from: "1.0.0")
+    .package(url: "https://github.com/ichetanmittal/IOS-sdk-distribution.git", from: "1.0.0")
 ]
 ```
 
